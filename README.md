@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="imagens/logo.svg" width="250px" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src=".github/logo.svg" width="250px" />
 </h1>
 
 <h4 align="center"> 
@@ -34,7 +34,7 @@ O objetivo é conectar pessoas a empresas que coletam resíduos específicos, co
 facilitando a coleta e ajudando o meio ambiente.
 
 <h1 align="center">
-    <img alt="Example" title="Example" src="imagens/capa.svg" width="500px" />
+    <img alt="Example" title="Example" src=".github/capa.svg" width="500px" />
 </h1>
 
 
@@ -128,7 +128,7 @@ $ yarn start
 ### Projetos finais (Mobile e Web)
 
 <h1 align="center">
-    <img alt="coleta" title="#coleta" src="imagens/coleta.png" width="700px" />
+    <img alt="coleta" title="#coleta" src=".github/coleta.png" width="700px" />
 </h1>
 
 Feito com ♥ por André Oliveira Cunha :wave: [Linkedin](https://www.linkedin.com/in/andr%C3%A9-oliveira-cunha-b26b3a156/)
