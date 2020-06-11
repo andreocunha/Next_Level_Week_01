@@ -12,6 +12,7 @@
   <a href="#rocket-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projetos-finais">Projetos finais (Web e Mobile)</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## :information_source: O que é a Next Level Week?
@@ -123,6 +124,12 @@ $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 $ yarn start
 
 ```
+
+### Projetos finais (Web e Mobile)
+
+<h1 align="center">
+    <img alt="coleta" title="#coleta" src="imagens/coleta.png" width="700px" />
+</h1>
 
 Feito com ♥ por André Oliveira Cunha :wave: [Linkedin](https://www.linkedin.com/in/andr%C3%A9-oliveira-cunha-b26b3a156/)
 
